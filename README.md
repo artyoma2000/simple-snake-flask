@@ -46,3 +46,10 @@ python app.py
 
 После запуска сервера, игра будет доступна по адресу `http://localhost:5000/`.
 
+
+## Фотосет
+![image](https://github.com/artyoma2000/simple-snake-flask/assets/70951593/aa92b668-3488-4f9e-850c-9cb2d754ad5b)
+![image](https://github.com/artyoma2000/simple-snake-flask/assets/70951593/fcca634f-a153-45f4-9c77-b724c018ef96)
+
+
+
